@@ -1,11 +1,13 @@
 # Instagram Tasarım Denememe Hoşgeldin !
 
-Merhaba, derste gördüğümüz instagram tasarımını kendim denedim. Umarım başarılı bir tasarım olmuştur.
+Merhaba, derste gösterdiğiniz instagram tasarımını kendim denedim.
 
 [Instagramıma göz atmayı unutma](https://www.instagram.com/talhakaya/)
 
 
-Ödev Görseli Aşağıdadır
+
+
+[Keyvan Arasteh](https://github.com/keyvanarasteh)
 
 
 
@@ -19,5 +21,5 @@ Merhaba, derste gördüğümüz instagram tasarımını kendim denedim. Umarım 
 
 
 
+![image](https://github.com/Talhak10/instagram-sample/assets/148802534/283091bd-ea11-41cb-bd25-d030d458d263)
 
-![Adsız](https://github.com/gkhnkndl/instagram-demo/assets/148795426/c6b17099-253a-4947-842a-c1b34a68c047)
